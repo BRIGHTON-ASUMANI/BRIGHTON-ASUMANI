@@ -3,11 +3,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/asumanibrighton?hr_r=1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asumanibrighton@gmail.com)
 
-![Brighton Stats](https://github-readme-stats.vercel.app/api?username=BRIGHTON-ASUMANI&show_icons=true&theme=dark&hide_border=true&bg_color=000000&text_color=00B612&icon_color=00B612)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIGHTON-ASUMANI&layout=compact)](https://github.com/BRIGHTON-ASUMANI)
-
-
+![Brighton Stats](https://github-readme-stats.vercel.app/api?username=BRIGHTON-ASUMANI&show_icons=true&theme=dark&hide_border=true&bg_color=180,0F2027,00B612&text_color=00B612&icon_color=00B612)
 
 <!--
 **BRIGHTON-ASUMANI/BRIGHTON-ASUMANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
