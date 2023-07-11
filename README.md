@@ -2,7 +2,8 @@
 
 <!--
 **BRIGHTON-ASUMANI/BRIGHTON-ASUMANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Codewars](https://www.codewars.com/users/Asumani/badges/large)](https://www.codewars.com/users/Asumani)
+[![LinkedIn](https://www.linkedin.com/in/brighton-asumani-b0226613a/)](https://www.linkedin.com/in/brighton-asumani-b0226613a/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
