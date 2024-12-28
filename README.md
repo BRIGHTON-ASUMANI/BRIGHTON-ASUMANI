@@ -2,6 +2,8 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Asumani)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/asumanibrighton?hr_r=1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asumanibrighton@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@asumanibrighton)
+
 
 ![Brighton Stats](https://github-readme-stats.vercel.app/api?username=BRIGHTON-ASUMANI&show_icons=true&theme=dark&hide_border=true&bg_color=180,0F2027,00B612&text_color=00B612&icon_color=00B612)
 
