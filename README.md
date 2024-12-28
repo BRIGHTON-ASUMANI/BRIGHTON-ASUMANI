@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@asumanibrighton)
 
 
-![Brighton Stats](https://github-readme-stats.vercel.app/api?username=BRIGHTON-ASUMANI&show_icons=true&theme=dark&hide_border=true&bg_color=180,0F2027,00B612&text_color=00B612&icon_color=00B612)
+<!-- ![Brighton Stats](https://github-readme-stats.vercel.app/api?username=BRIGHTON-ASUMANI&show_icons=true&theme=dark&hide_border=true&bg_color=180,0F2027,00B612&text_color=00B612&icon_color=00B612)
 
 <!--
 **BRIGHTON-ASUMANI/BRIGHTON-ASUMANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
